@@ -1,3 +1,19 @@
+@font-face {
+    font-family: "Bureau Grot Black";
+    src: url(font/bureau_grot_black.ttf);
+}
+@font-face {
+    font-family: "Bureau Grot Condensed Black";
+    src: url(font/bureau_grot_condensed_black.ttf);
+}
+@font-face {
+    font-family: "Bureau Grot Wide Book";
+    src: url(font/bureau_grot_wide_book.ttf);
+}
+@font-face {
+    font-family: "Roboto Regular";
+    src: url(font/roboto-regular.ttf);
+}
 *{
     padding: 0;
     margin: 0;
